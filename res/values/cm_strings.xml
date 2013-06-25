@@ -15,15 +15,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Context Menu item to open the currently selected link in a new incognito window. -->
-    <string name="contextmenu_openlink_incognito_newwindow">Open in new incognito tab</string>
     <!-- Context Menu item to open the currently selected link in a new background window. [CHAR LIMIT=50] -->
-    <string name="contextmenu_openlink_incognito_newwindow_background">Open in new incognito background tab</string>
 
     <!-- User agent label -->
     <string name="pref_content_ua">User agent</string>
-    <!-- User agent summary -->
-    <string name="pref_content_ua_summary">Choose a user agent</string>
-
+    <string name="pref_content_ua_summary">Choose yur User Agent for the page request</string>
     <!-- Title for the WebGL feature [CHAR LIMIT=40] -->
     <string name="pref_lab_webgl">WebGL</string>
     <!-- Summary for the WebGL lab feature [CHAR LIMIT=120] -->
@@ -33,6 +29,4 @@
     <!-- Summary for the WebGL lab feature [CHAR LIMIT=120] -->
     <string name="pref_lab_websockets_summary">Enable WebSockets</string>
 
-    <!-- Content description for home screen button [CHAR LIMIT=NONE] -->
-    <string name="accessibility_button_homescreen">Home screen</string>
 </resources>
