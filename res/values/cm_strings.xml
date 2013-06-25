@@ -14,8 +14,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Context Menu item to open the currently selected link in a new incognito window. -->
-    <!-- Context Menu item to open the currently selected link in a new background window. [CHAR LIMIT=50] -->
 
     <!-- User agent label -->
     <string name="pref_content_ua">User agent</string>
