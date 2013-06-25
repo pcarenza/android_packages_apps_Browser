@@ -662,10 +662,6 @@ public class BrowserSettings implements OnSharedPreferenceChangeListener,
         return mPrefs.getString(PREF_SEARCH_ENGINE, SearchEngine.GOOGLE);
     }
 
-    public int getUserAgent() {
-        return Integer.parseInt(mPrefs.getString(PREF_USER_AGENT, "0"));
-    }
-
     public boolean allowAppTabs() {
         return mPrefs.getBoolean(PREF_ALLOW_APP_TABS, false);
     }
